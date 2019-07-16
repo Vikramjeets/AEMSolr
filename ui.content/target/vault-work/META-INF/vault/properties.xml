@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AemSolr2 - UI content</comment>
+<entry key="createdBy">scottm</entry>
+<entry key="name">AemSolr2.ui.content</entry>
+<entry key="created">2018-10-25T09:46:53.719-0400</entry>
+<entry key="groupId">AemSolr2</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">AemSolr2</entry>
+<entry key="description">UI content package for AemSolr2</entry>
+<entry key="artifactId">AemSolr2.ui.content</entry>
+<entry key="path">/etc/packages/AemSolr2/AemSolr2.ui.content.zip</entry>
+</properties>

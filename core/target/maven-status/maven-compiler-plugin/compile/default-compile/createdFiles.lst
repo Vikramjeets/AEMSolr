@@ -1,0 +1,15 @@
+com\adobe\aem\core\SolrSearchService.class
+com\adobe\aem\core\impl\SolrSearchServiceImpl.class
+com\adobe\aem\core\MySimpleService.class
+com\adobe\aem\core\servlets\SimpleServlet.class
+com\adobe\aem\core\package-info.class
+com\adobe\aem\core\listeners\SimpleResourceListener.class
+com\adobe\aem\core\models\HelloWorldModel.class
+com\adobe\aem\core\filters\LoggingFilter.class
+com\adobe\aem\core\impl\SolrServerConfigurationImpl.class
+com\adobe\aem\core\SolrServerConfiguration.class
+com\adobe\aem\core\servlets\IndexContentToSolr.class
+com\adobe\aem\core\schedulers\SimpleScheduledTask$Config.class
+com\adobe\aem\core\utils\SolrUtils.class
+com\adobe\aem\core\servlets\DeleteIndexesFromSolr.class
+com\adobe\aem\core\schedulers\SimpleScheduledTask.class
